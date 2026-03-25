@@ -12,7 +12,7 @@ const slides = [
 		"tagLine":"Grand choix de couleurs <span>de CMJN aux pantones</span>"
 	},
 	{
-		"image":"slide4.png",
+		"image":"slide4.jpg",
 		"tagLine":"Autocollants <span>avec découpe laser sur mesure</span>"
 	}
 ]
